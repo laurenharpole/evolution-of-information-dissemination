@@ -109,7 +109,7 @@ header p {
   border-radius: 50%;
   background: linear-gradient(145deg, #a5b2b4, #d5e7e9);
   box-shadow:  5px 5px 10px #94a0a2, 
-               -5px -5px 10px #e7f4f5;
+               -5px -5px 10px rgb(231, 244, 245,0.5);
   position: absolute;
   left: 50%;
   margin-top: 25px;
